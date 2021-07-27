@@ -1,0 +1,3 @@
+include ':LEasyBase'
+include ':app'
+rootProject.name = "LEasyBaseLibrary"
