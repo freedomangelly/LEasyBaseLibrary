@@ -2,8 +2,9 @@ package com.lightyear.leasybase.advanced.popup;
 
 import android.content.Context;
 
-import com.hjq.base.BasePopupWindow;
-import com.hjq.demo.R;
+import com.lightyear.leasybase.R;
+import com.lightyear.leasybase.ui.baseComponent.BasePopupWindow;
+
 
 /**
  *    author : Android 轮子哥
